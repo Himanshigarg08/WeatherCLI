@@ -28,6 +28,6 @@ The following Python libraries were used in the development of the project.
 - Next, obtain a free API key by signing up with [OpenWeatherMap](https://openweathermap.org/api). The free API key is limited to 1,000 calls per day.
 - Clone this repository and create a local copy on your machine using this command:
 ```bash
-  git clone 
+  git clone https://github.com/Himanshigarg08/WeatherCLI.git
 ```
 - Update variable ```API_KEY``` in ``` WeatherCLI\main.py``` and run the file.
