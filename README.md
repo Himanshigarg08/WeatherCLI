@@ -1,7 +1,7 @@
 
 # Weather Foreasting Tool
 
-A command-line tool build using python that accepts a city's name and returns it current weather forecast.
+A command-line tool build using python that accepts a city's name and returns it's current weather forecast.
 
 ## Python Libraries
 
